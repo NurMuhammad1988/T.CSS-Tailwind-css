@@ -8,6 +8,10 @@
     .container{
         @apply max-w-[1080px]
     }
+
+    .btn{
+      @apply inline-block mt-6 py-[10px] px-8 shadow-customred bg-lightred rounded-2xl text-white text-xl tracking-tight max-w-fit sm:max-w-full 
+    }
  }
 
  .burger{
